@@ -15,7 +15,7 @@ usleep(500000);
 // 【指示】下の1行を各自の引数に追加せよ！
 // executeEmergencySurfacing("VALVE_OPEN", "");
 // 担当B: executeEmergencySurfacing("", "BALLAST_PURGE");
-executeEmergencySurfacing("VALVE_OPEN", "VALVE_OPEN");  // 担当A: バルブ開放
+executeEmergencySurfacing("VALVE_OPEN", "BALLAST_PURGE");  // 担当A: バルブ開放
 // executeEmergencySurfacing("", "BALLAST_PURGE");
 // executeEmergencySurfacing("", "");
 // ==========================================
